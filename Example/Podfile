@@ -1,0 +1,4 @@
+
+target 'Example' do
+    pod 'BGFileDownloadOperation', :path => '../'
+end

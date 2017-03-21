@@ -1,0 +1,16 @@
+PODS:
+  - BGFileDownloadOperation (0.0.1)
+
+DEPENDENCIES:
+  - BGFileDownloadOperation (from `../`)
+
+EXTERNAL SOURCES:
+  BGFileDownloadOperation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGFileDownloadOperation: ae527290a794a90043a7ec95d84b19604bba7a95
+
+PODFILE CHECKSUM: a4f1bd48abfc934a215049d6db042497a67549b1
+
+COCOAPODS: 1.1.1
