@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "bengang" => "316379737@qq.com" }
   s.source       = { :git => "https://github.com/xiongbengang/FileDownloadOperation.git", :tag => "#{s.version}",:submodules => true}
   s.source_files = "Classes", "Classes/**/*"
-  s.public_header_files = 'Classes/*/**.h'
+  s.public_header_files = 'Classes/**/*.h'
   s.ios.deployment_target = '7.0'
   s.platform     = :ios, '7.0'
 
